@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8cc0a05e-6c2a-4a9a-8112-a551d510e364" name="Changes" comment="Configure curl commands for auth and getting user data">
-      <change afterPath="$PROJECT_DIR$/src/waitlists/schemas.py" afterDir="false" />
+    <list default="true" id="8cc0a05e-6c2a-4a9a-8112-a551d510e364" name="Changes" comment="Add Waitlists to the installed apps">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rav.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/rav.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/waitlists/schemas.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/waitlists/schemas.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -126,7 +127,23 @@
       <option name="project" value="LOCAL" />
       <updated>1736266481428</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Create WaitlistEntry schemas">
+      <option name="closed" value="true" />
+      <created>1736266915305</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1736266915306</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Add Waitlists to the installed apps">
+      <option name="closed" value="true" />
+      <created>1736266970791</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1736266970791</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -137,6 +154,8 @@
     <MESSAGE value="Add ninja_jwt and ninja_extra to installed apps" />
     <MESSAGE value="Configure ninja_jwt token lifetime in settings.py." />
     <MESSAGE value="Configure curl commands for auth and getting user data" />
-    <option name="LAST_COMMIT_MESSAGE" value="Configure curl commands for auth and getting user data" />
+    <MESSAGE value="Create WaitlistEntry schemas" />
+    <MESSAGE value="Add Waitlists to the installed apps" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Waitlists to the installed apps" />
   </component>
 </project>
