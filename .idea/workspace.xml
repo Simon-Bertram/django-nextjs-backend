@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8cc0a05e-6c2a-4a9a-8112-a551d510e364" name="Changes" comment="Add ninja_jwt and ninja_extra to installed apps">
+    <list default="true" id="8cc0a05e-6c2a-4a9a-8112-a551d510e364" name="Changes" comment="Configure curl commands for auth and getting user data">
+      <change afterPath="$PROJECT_DIR$/src/waitlists/schemas.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rav.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/rav.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cfehome/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/cfehome/settings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,7 +110,23 @@
       <option name="project" value="LOCAL" />
       <updated>1736264459137</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Configure ninja_jwt token lifetime in settings.py.">
+      <option name="closed" value="true" />
+      <created>1736266426812</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1736266426812</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Configure curl commands for auth and getting user data">
+      <option name="closed" value="true" />
+      <created>1736266481428</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1736266481428</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -120,6 +135,8 @@
     <MESSAGE value="Add a GET route that returns request.user from the UserSchema" />
     <MESSAGE value="Add ninja-jwt and import the controller and the JWTAuth" />
     <MESSAGE value="Add ninja_jwt and ninja_extra to installed apps" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add ninja_jwt and ninja_extra to installed apps" />
+    <MESSAGE value="Configure ninja_jwt token lifetime in settings.py." />
+    <MESSAGE value="Configure curl commands for auth and getting user data" />
+    <option name="LAST_COMMIT_MESSAGE" value="Configure curl commands for auth and getting user data" />
   </component>
 </project>
