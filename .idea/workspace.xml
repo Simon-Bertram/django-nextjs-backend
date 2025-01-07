@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8cc0a05e-6c2a-4a9a-8112-a551d510e364" name="Changes" comment="Add a GET route that returns request.user from the UserSchema">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cfehome/api.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/cfehome/api.py" afterDir="false" />
-    </list>
+    <list default="true" id="8cc0a05e-6c2a-4a9a-8112-a551d510e364" name="Changes" comment="Add ninja_jwt and ninja_extra to installed apps" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -88,13 +83,31 @@
       <option name="project" value="LOCAL" />
       <updated>1736262789505</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Add ninja-jwt and import the controller and the JWTAuth">
+      <option name="closed" value="true" />
+      <created>1736263937852</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1736263937852</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Add ninja_jwt and ninja_extra to installed apps">
+      <option name="closed" value="true" />
+      <created>1736264016873</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1736264016873</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Install packages, configure commands in rav.yaml" />
     <MESSAGE value="Create api.py file with NinjaApi and create a /hello route" />
     <MESSAGE value="Add a GET route that returns request.user from the UserSchema" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add a GET route that returns request.user from the UserSchema" />
+    <MESSAGE value="Add ninja-jwt and import the controller and the JWTAuth" />
+    <MESSAGE value="Add ninja_jwt and ninja_extra to installed apps" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add ninja_jwt and ninja_extra to installed apps" />
   </component>
 </project>
