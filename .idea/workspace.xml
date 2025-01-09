@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8cc0a05e-6c2a-4a9a-8112-a551d510e364" name="Changes" comment="Use ninja router and create a new path with the entry_id">
+    <list default="true" id="8cc0a05e-6c2a-4a9a-8112-a551d510e364" name="Changes" comment="Include the id in the get waitlist detail result">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/waitlists/api.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/waitlists/api.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/waitlists/schemas.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/waitlists/schemas.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cfehome/api.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/cfehome/api.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cfehome/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/cfehome/settings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -175,7 +176,15 @@
       <option name="project" value="LOCAL" />
       <updated>1736272823033</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Include the id in the get waitlist detail result">
+      <option name="closed" value="true" />
+      <created>1736419221698</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1736419221698</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -191,6 +200,7 @@
     <MESSAGE value="Use pydantic and EmailStr to ensure valid email" />
     <MESSAGE value="Create /waitlist api route for the waitlist app" />
     <MESSAGE value="Use ninja router and create a new path with the entry_id" />
-    <option name="LAST_COMMIT_MESSAGE" value="Use ninja router and create a new path with the entry_id" />
+    <MESSAGE value="Include the id in the get waitlist detail result" />
+    <option name="LAST_COMMIT_MESSAGE" value="Include the id in the get waitlist detail result" />
   </component>
 </project>
